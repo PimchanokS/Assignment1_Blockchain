@@ -1,0 +1,10 @@
+{
+    "T1": "Wave",
+    "T2": "khn",
+    "About": "2022-02-17T17:31",
+    "block_hash": "eb4ad16f92337b4430cc1896e77555c9f92741efa5f08fe6b6db7159a45fee65",
+    "prev_block": {
+        "hash": "3075df2cf66da646871fbf4272600cb0c95124a149db2e7a684ba204ea721834",
+        "blockIndex": "11"
+    }
+}

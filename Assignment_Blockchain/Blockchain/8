@@ -1,0 +1,10 @@
+{
+    "T1": "VGaming",
+    "T2": "Team CIV",
+    "About": "2021-06-24T18:00 ",
+    "block_hash": "7bb1b287088824a2c3f68d8ff45116c0df855b55d910330f0fea8c7896167a0b",
+    "prev_block": {
+        "hash": "c432fc4cca70102ae6668f11fb8bf1f31f80bbe61844cacb578eebdc64fab009",
+        "blockIndex": "7"
+    }
+}
